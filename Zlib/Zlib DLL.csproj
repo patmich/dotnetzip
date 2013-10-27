@@ -131,7 +131,7 @@
     <Compile Include="Deflate.cs" />
     <Compile Include="Inflate.cs" />
     <Compile Include="InfTree.cs" />
-    <Compile Include="Tree.cs" />
+    <Compile Include="ZTree.cs" />
     <Compile Include="Zlib.cs" />
     <Compile Include="ZlibStream.cs" />
     <Compile Include="ZlibBaseStream.cs" />

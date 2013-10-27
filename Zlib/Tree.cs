@@ -1,4 +1,4 @@
-// Tree.cs
+// ZTree.cs
 // ------------------------------------------------------------------
 //
 // Copyright (c) 2009 Dino Chiesa and Microsoft Corporation.  
@@ -65,7 +65,7 @@ using System;
 
 namespace Ionic.Zlib
 {
-    sealed class Tree
+    sealed class ZTree
     {
         private static readonly int HEAP_SIZE = (2 * InternalConstants.L_CODES + 1);
                 
